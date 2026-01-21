@@ -1,6 +1,5 @@
 # 💫 About Me:
-Soy Jayro Adoni Mejia, Desarrollador Full Stack apasionado por las arquitecturas modernas. Actualmente enfocado en el desarrollo de sistemas robustos como **biblioteck** (Spring Boot/Vue.js/MongoDB) y **FUNDESUR** (Django/React).
-
+Soy Jayro Adoni Mejia, Desarrollador Full Stack apasionado por las arquitecturas modernas. Actualmente enfocado en el desarrollo de sistemas robustos.
 # 💻 Tech Stack:
 
 ### 🌐 Frontend
