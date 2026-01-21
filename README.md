@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 Soy Jayro Adoni Mejia, Desarrollador Full Stack apasionado por las arquitecturas modernas. Actualmente enfocado en el desarrollo de sistemas robustos.
 # 💻 Tech Stack:
 
