@@ -1,5 +1,5 @@
 # Acerca de mi:
-Soy Jayro Adoni Mejia actualmente estudiante por geresar de la carrera de Informatica Administrativa en la UNAH, Desarrollador Full Stack en proceso y un apasionado por las arquitecturas modernas de desarrollo de sistemas robustos.
+Soy Jayro Adoni Mejia actualmente estudiante por egresar de la carrera de Informatica Administrativa en la UNAH, Desarrollador Full Stack en proceso y un apasionado por las arquitecturas modernas de desarrollo de sistemas robustos.
 
 # 💻 Tech Stack:
 
