@@ -73,7 +73,6 @@ Me interesa especialmente:
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JayroAdoniMejia&theme=dark&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JayroAdoniMejia&theme=dark&hide_border=false)
 
 
 
