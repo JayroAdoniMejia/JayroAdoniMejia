@@ -67,15 +67,13 @@ Me interesa especialmente:
 
 ## 📊 GitHub Stats
 
-<!-- Stats generales (anti-caché) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayroAdoniMejia&theme=dark&hide_border=false&count_private=true&include_all_commits=true&v=1)
 
-<!-- Racha de commits (servicio más estable) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayroAdoniMejia&theme=dark&hide_border=false)
 
-<!-- Lenguajes más usados -->
-/api/top-langs/?username=JayroAdoniMejia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayroAdoniMejia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=3)
 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JayroAdoniMejia&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayroAdoniMejia&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 
 ---
