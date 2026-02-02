@@ -74,7 +74,8 @@ Me interesa especialmente:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayroAdoniMejia&theme=dark&hide_border=false)
 
 <!-- Lenguajes más usados -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayroAdoniMejia&theme=dark&hide_border=false&layout=compact&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayroAdoniMejia&layout=compact&theme=dark&hide_border=false&langs_count=8&exclude_repo=github-readme-stats&v=2)
+
 
 ---
 
