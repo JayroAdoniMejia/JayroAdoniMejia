@@ -73,6 +73,7 @@ Me interesa especialmente:
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JayroAdoniMejia&theme=dark&hide_border=false)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JayroAdoniMejia&theme=dark&layout=compact)
 
 
 
