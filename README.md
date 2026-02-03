@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Sobre mí
+> ## 🧠 Sobre mí:
 Me encuentro fortaleciendo mis habilidades en el desarrollo de aplicaciones web modernas, combinando buenas prácticas de ingeniería de software, arquitecturas escalables y tecnologías actuales tanto en frontend como backend.
 
 Me interesa especialmente:
