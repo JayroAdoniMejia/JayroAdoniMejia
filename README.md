@@ -67,13 +67,14 @@ Me interesa especialmente:
 
 ## 📊 GitHub Stats
 
+<!-- Stats Card -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=JayroAdoniMejia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayroAdoniMejia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=3)
-
+<!-- Streak -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JayroAdoniMejia&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JayroAdoniMejia&theme=dark&layout=compact)
+<!-- Top Langs -->
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayroAdoniMejia&theme=dark&layout=compact)
 
 
 
