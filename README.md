@@ -70,15 +70,13 @@ Me interesa especialmente:
 ## 📊 GitHub Stats
 
 <!-- Stats Card -->
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=JayroAdoniMejia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayroAdoniMejia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)
 
 <!-- Streak -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JayroAdoniMejia&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JayroAdoniMejia&theme=dark&hide_border=false)
 
 <!-- Top Langs -->
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayroAdoniMejia&theme=dark&layout=compact)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayroAdoniMejia&theme=dark&layout=compact&cache_seconds=1800)
 
 ---
 
